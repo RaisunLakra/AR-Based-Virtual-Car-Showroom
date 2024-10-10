@@ -60,17 +60,17 @@ Open the project in Unity and connect to your mobile device for AR visualization
 
 Contributions are welcome! If you would like to help improve this project, please follow these steps:
 
-        1. Fork the repository.
-        2. Create a new branch 
-            ```base
-            git checkout -b feature-branch
-        2. Commit your changes
-            ```base
-            git commit -m 'Add new feature'
-        3. Push to the branch
-            ```base
-            git push origin feature-branch).
-        4. Open a Pull Request.
+  1. Fork the repository.
+  2. Create a new branch 
+      ```base
+      git checkout -b feature-branch
+  2. Commit your changes
+      ```base
+      git commit -m 'Add new feature'
+  3. Push to the branch
+      ```base
+      git push origin feature-branch).
+  4. Open a Pull Request.
 
 
 ## 📫 Contact
