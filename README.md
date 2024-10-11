@@ -97,15 +97,3 @@ THE SOFTWARE IS PROVIDED “AS IS”, WITHOUT WARRANTY OF ANY KIND, EXPRESS OR I
 
 ⭐ If you like this project, give it a star on GitHub! Your support is greatly appreciated.
 
-
-### Enhancements Included
-1. **Icons:** Icons are used for programming languages, tools, and frameworks to make it visually appealing.
-
-2. **Badges:** Status indicators and technology icons improve readability.
-
-3. **Interactive Table:** A table for tools and technologies provides a clear overview.
-
-4. **Contribution Section:** Encourages others to contribute with clear guidelines.
-
-5. **Contact Information:** Easy access to the project's creator for feedback or questions.
-
