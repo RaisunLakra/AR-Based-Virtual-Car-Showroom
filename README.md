@@ -77,9 +77,9 @@ Contributions are welcome! If you would like to help improve this project, pleas
 
 If you have any questions or suggestions, feel free to reach out:
 
-            Email: raisunlakra18@gmail.com
-            LinkedIn: Raisun Lakra
-            GitHub: RaisunLakra
+        Email: raisunlakra18@gmail.com
+        LinkedIn: Raisun Lakra
+        GitHub: RaisunLakra
 
 ## 📝 License
 
